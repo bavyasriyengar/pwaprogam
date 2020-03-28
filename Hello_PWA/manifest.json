@@ -1,0 +1,18 @@
+{  
+    "name": "Application_Helloworld",   
+    "short_name": "Hello", 
+    "lang": "en-US",     
+    "start_url": "/index.html", 
+    "display": "standalone",  
+    "background_color": "#FFE9D2",
+    "orientation": "portrait-primary",
+    "theme_color": "#FFE1C4",
+"icons": [
+      {
+        "src": "/img/icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+]
+    }
+    
